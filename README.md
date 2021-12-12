@@ -1,8 +1,8 @@
 # Cryptocurrency-Dashboard
 
-## Problem Statement / Opportunity: To help one understand the factors affecting the prices of the cryptocurrencies and also to help make future predictions in a a better way using Microsoft Power BI and Azure Services.
+### Problem Statement / Opportunity: To help one understand the factors affecting the prices of the cryptocurrencies and also to help make future predictions in a a better way using Microsoft Power BI and Azure Services.
 
-## Project Description: 
+### Project Description: 
 Topics like Block chain, Bitcoin, Bitcoin cash, Ethereum, Ripple etc. are constantly coming in the news articles I read. So I wanted to understand more about them and this project helped me get started. When I wanted to dig deep into the cryptocurrencies, the data scientist inside me started raising questions like: 
 1. How many cryptocurrencies are there and what are their prices and valuations? 
 2. Why is there a sudden surge in the interest in recent days? 
